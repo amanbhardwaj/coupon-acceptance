@@ -1,5 +1,5 @@
 # coupon-acceptance
-### Project
+### Problem
 This project aims to analyze data and draw insights into the factors that determine a driver's accepance of a coupon delivered to them under various circumstances. The objective is exploratory statistical data analysis and visualization of user and contextual attributes that impact acceptance of coupons people receive while driving. How would you determine whether a driver is likely to accept a coupon or not?
 
 ### Data
@@ -42,3 +42,6 @@ Hypothesis based on observations
 
 Characteristics and contextual attributes of people who are twice as likely to accept a coupon from more expensive restaurants ($20 - $50) are:
 People who go to a expensive restaurant 1-3 times a month, are unmarried partners, while driving with a partner in a sunny weather around 10 AM 
+
+### Link to Jupyter Notebook
+https://github.com/amanbhardwaj/coupon-acceptance/blob/main/coupons.ipynb
