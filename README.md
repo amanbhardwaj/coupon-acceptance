@@ -2,6 +2,7 @@
 Exploratory data analysis of user and contextual attributes that impact acceptance of coupons that people receive while driving.
 
 Coupon Groups: Restaurant(<20), Coffee House, Carry out & Take away, Bar, Restaurant(20-50)
+
 Groups analysed: Bar and Restaurant(20-50)
 
 A - Bar Coupons
