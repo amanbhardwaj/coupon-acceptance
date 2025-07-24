@@ -1,6 +1,6 @@
 # coupon-acceptance
 ### Link to Jupyter Notebook
-https://github.com/amanbhardwaj/coupon-acceptance/blob/main/coupons.ipynb
+https://github.com/amanbhardwaj/coupon-acceptance/blob/main/prompt.ipynb
 
 ### Problem:
 This project aims to analyze data and draw insights into the factors that determine a driver's accepance of a coupon delivered to them under various circumstances. The objective is exploratory statistical data analysis and visualization of user and contextual attributes that impact acceptance of coupons people receive while driving. How would you determine whether a driver is likely to accept a coupon or not?
