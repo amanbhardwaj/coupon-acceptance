@@ -5,6 +5,7 @@ Coupon Groups: Restaurant(<20), Coffee House, Carry out & Take away, Bar, Restau
 Groups analysed: Bar and Restaurant(20-50)
 
 A - Bar Coupons
+
 Based on the observations, drivers with high acceptance rate of the bar coupons are the onces:
 - who go to a bar more than 3 times a month (0.769)
 - who go to a bar more than once a month (0.688)
@@ -23,6 +24,7 @@ Therefore based on my hypothesis the folloing drivers are more likely to accept 
 - who go to a bar more than once a month and had passengers that were not a kid.
 
 B - Restaurant(20-50) Coupons
+
 Hypothesis based on observations
 
 Characteristics and contextual attributes of people who are twice as likely to accept a coupon from more expensive restaurants ($20 - $50) are:
