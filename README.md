@@ -48,4 +48,6 @@ Hypothesis based on observations
 Characteristics and contextual attributes of people who are twice as likely to accept a coupon from more expensive restaurants ($20 - $50) are:
 People who go to a expensive restaurant 1-3 times a month, are unmarried partners, while driving with a partner in a sunny weather around 10 AM 
 
+### Next steps and recommendations
 
+A similar analysis needs to be done for all coupon groups in oder to identify the characteristics and contextual attributes that contribute to higher acceptance of that particular coupon group. This will help target the coupons to improve acceptance rates.
