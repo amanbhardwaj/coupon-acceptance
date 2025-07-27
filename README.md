@@ -46,7 +46,8 @@ Therefore based on my hypothesis the folloing drivers are more likely to accept 
 Hypothesis based on observations
 
 Characteristics and contextual attributes of people who are twice as likely to accept a coupon from more expensive restaurants ($20 - $50) are:
-People who go to a expensive restaurant every month, are unmarried or married partners, driving with a partner in sunny weather at 10 A 
+
+People who go to a expensive restaurant every month, are unmarried or married partners, driving with a partner in sunny weather at 10 AM.
 
 ### Next steps and recommendations
 
